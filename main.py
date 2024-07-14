@@ -1,16 +1,22 @@
-# This is a sample Python script.
+import sys
+import disnake
+from disnake.ext import commands
+import variable
 
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+bot = commands.InteractionBot(
+    reload=True,
+    activity=None,
+    status=disnake.Status.idle
+
+)
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+@bot.event
+async def on_ready():
+    print(f'\033[3;32mБот \033[0m\033[35;1m{bot.user.name}\033[0m\033[3;32m запустился и готов к '
+          f'использованию!\033[0m')
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+bot.load_extensions("cogs/bot/slash_commands")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+bot.run(variable.token)
