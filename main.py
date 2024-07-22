@@ -1,11 +1,10 @@
-import sys
 import disnake
 from disnake.ext import commands
-import variable
+
+from app.token_get import token
 
 bot = commands.InteractionBot(
     reload=True,
-    activity=None,
     status=disnake.Status.idle
 
 )
@@ -19,4 +18,4 @@ async def on_ready():
 
 bot.load_extensions("cogs/bot/slash_commands")
 
-bot.run(variable.token)
+bot.run(token(name="TOKEN"))
