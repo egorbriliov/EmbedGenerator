@@ -13,7 +13,7 @@ This bot has been in development since 2024 and has only two command:
 
 `First steps:`  
 To get started, you need to use /embedTo get started, you need to use /embed  
-![First steps](https://media.discordapp.net/attachments/1262719342500384861/1263953249317158925/chrome_kLpriNSOYs.gif?ex=66ad3f31&is=66abedb1&hm=d4e5e9256017e255bb2bea5e543af4f2c715f010f6c012e66d1c3d0b09cdadaf&=&width=1247&height=597)
+![First steps](https://media.discordapp.net/attachments/1262719342500384861/1263953249317158925/chrome_kLpriNSOYs.gif?ex=66ad3f31&is=66abedb1&hm=d4e5e9256017e255bb2bea5e543af4f2c715f010f6c012e66d1c3d0b09cdadaf&=&width=1004&height=480)
 
 `Add something:`   
 To add something, you need to click a button and fill out the modal window  
@@ -30,11 +30,11 @@ If you choose “Send this channel”, embed will be sent in this channel.
 ![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66ad3f31&is=66abedb1&hm=95b791d943c14bc19b2715b30bcca5549064d1bdad3e7e36d6863ae501b79845&=&width=1004&height=480)
 
 If you choose “Use webhook” you will need to past webhook URL.  
-![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66ad3f31&is=66abedb1&hm=20d5b3f12cd2ea9da405974e1be8e554df66cae903e8ca91c7ee96aad27d5a7b&=&width=1080&height=517)
+![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66ad3f31&is=66abedb1&hm=20d5b3f12cd2ea9da405974e1be8e554df66cae903e8ca91c7ee96aad27d5a7b&=&width=1004&height=480)
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
-![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66ad3f32&is=66abedb2&hm=ced0429e04c2037bc2644d017a3771c64c2ec78cacb6392c25b5ed21f40e0953&=&width=1080&height=517)
+![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66ad3f32&is=66abedb2&hm=ced0429e04c2037bc2644d017a3771c64c2ec78cacb6392c25b5ed21f40e0953&=&width=1004&height=480)
 
 
 # Installation
