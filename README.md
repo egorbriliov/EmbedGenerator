@@ -27,10 +27,10 @@ To delete something, you need to click a button
 To send embed, you need to click button and choose method for send.  
 
 If you choose “Send this channel”, embed will be sent in this channel.  
-![Send embed](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66ad3f31&is=66abedb1&hm=95b791d943c14bc19b2715b30bcca5549064d1bdad3e7e36d6863ae501b79845&=&width=1004&height=480)
+![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66ad3f31&is=66abedb1&hm=95b791d943c14bc19b2715b30bcca5549064d1bdad3e7e36d6863ae501b79845&=&width=1004&height=480)
 
 If you choose “Use webhook” you will need to past webhook URL.  
-![Send embed](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66ad3f31&is=66abedb1&hm=20d5b3f12cd2ea9da405974e1be8e554df66cae903e8ca91c7ee96aad27d5a7b&=&width=440&height=210)
+![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66ad3f31&is=66abedb1&hm=20d5b3f12cd2ea9da405974e1be8e554df66cae903e8ca91c7ee96aad27d5a7b&=&width=440&height=210)
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
