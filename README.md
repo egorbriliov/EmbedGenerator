@@ -34,7 +34,7 @@ If you choose “Use webhook” you will need to past webhook URL.
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
-![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66ad3f32&is=66abedb2&hm=ced0429e04c2037bc2644d017a3771c64c2ec78cacb6392c25b5ed21f40e0953&=&width=1004&height=480)
+![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66ad3f32&is=66abedb2&hm=ced0429e04c2037bc2644d017a3771c64c2ec78cacb6392c25b5ed21f40e0953&=&width=1080&height=517)
 
 
 # Installation
