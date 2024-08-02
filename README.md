@@ -1,7 +1,7 @@
 # EmbedGenerator
 EmbedGenerator is a free, open-source, extensible bot for Discord servers, built on top of <a href="https://github.com/DisnakeDev/disnake">disnake.py</a>. This bot is generally self-hosted either on a dedicated server (like a Raspberry Pi) or general cloud hosting like AWS etc. You can think of this bot as privacy focused, as you are in total control of the code, so you can be sure that your information is secure.
 
-# Features:
+## Features:
 This bot has been in development since 2024 and has only two command:
 
 ### General Commands
@@ -37,7 +37,7 @@ You don’t have to worry about data entry errors, because if they are not true,
 ![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66ad3f32&is=66abedb2&hm=ced0429e04c2037bc2644d017a3771c64c2ec78cacb6392c25b5ed21f40e0953&=&width=1004&height=480)
 
 
-# Installation
+## Installation
 
 This bot runs on [Python](https://www.python.org/). You will need at least python 3.10.
 
@@ -49,12 +49,13 @@ This bot runs on [Python](https://www.python.org/). You will need at least pytho
 4. Configurate `.env` (Add your token).
 5. Run `python main.py` to start bot.
 
-# Running longterm
+### Running longterm
 Once you've setup your keys and checked that the features you want are working, you have a couple of options for running the bot.
 
-## Selfhosted
+### Selfhosted
 You could run the bot along side everything else on your pc. However it's probably a good idea to run your bot on a separate computer such as a linux server or a Raspberry Pi so it does not interfere with your normal operations and to keep it running even if you were to sleep or shutdown your PC. 
-## Cloud Hosted
+
+### Cloud Hosted
 There is a number of cloud hosting providers that can run small Python applications like this. The following have been tested to work, you'll have to extrapolate if you want to use some other provider (AWS, etc)
 
 ### Running on Heroku
