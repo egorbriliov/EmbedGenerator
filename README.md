@@ -30,7 +30,7 @@ If you choose “Send this channel”, embed will be sent in this channel.
 ![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66ad3f31&is=66abedb1&hm=95b791d943c14bc19b2715b30bcca5549064d1bdad3e7e36d6863ae501b79845&=&width=1004&height=480)
 
 If you choose “Use webhook” you will need to past webhook URL.  
-![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66ad3f31&is=66abedb1&hm=20d5b3f12cd2ea9da405974e1be8e554df66cae903e8ca91c7ee96aad27d5a7b&=&width=1004&height=480)
+![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66afe231&is=66ae90b1&hm=fd4a5cd15e52f3578d239e2f1d7e61c50720f29ecd356030093874a075af835a&=&width=440&height=210)
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
