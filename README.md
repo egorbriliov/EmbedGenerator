@@ -21,7 +21,7 @@ To add something, you need to click a button and fill out the modal window
 
 `Delete something:`  
 To delete something, you need to click a button  
-![Delete something](https://media.discordapp.net/attachments/1262719342500384861/1263953248927092869/chrome_dD06gFqCWc.gif?ex=66ad3f31&is=66abedb1&hm=fcf5bb604012f717e95c057f42709cd08ba100b1063524201680ef7ea90c85fc&=&width=1004&height=480)
+![Delete something](https://media.discordapp.net/attachments/1262719342500384861/1263953248927092869/chrome_dD06gFqCWc.gif?ex=66afe231&is=66ae90b1&hm=fa28ec8d4aab4bfa8430b1101d88d620301a81d4e7cd821aabca1ff4d80c32d2&=&width=718&height=344)
 
 `Send embed:`  
 To send embed, you need to click button and choose method for send.  
