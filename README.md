@@ -17,7 +17,7 @@ To get started, you need to use /embedTo get started, you need to use /embed
 
 `Add something:`   
 To add something, you need to click a button and fill out the modal window  
-![Add something](https://media.discordapp.net/attachments/1262719342500384861/1263953248507658240/chrome_c3lv00QRtE.gif?ex=66ad3f31&is=66abedb1&hm=bf9101fc56fe09c40d0c0c8295562b7208d4feacc6d36495273c39f4f3f7462c&=&width=1004&height=480)
+![Add something](https://media.discordapp.net/attachments/1262719342500384861/1263953248507658240/chrome_c3lv00QRtE.gif?ex=66afe231&is=66ae90b1&hm=4ff1a57ee2138669c48f105eea84a91d68177faf44e04206243e9c7dc5f4ce81&=&width=718&height=344)
 
 `Delete something:`  
 To delete something, you need to click a button  
