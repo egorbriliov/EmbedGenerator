@@ -13,7 +13,7 @@ This bot has been in development since 2024 and has only two command:
 
 `First steps:`  
 To get started, you need to use /embedTo get started, you need to use /embed  
-![First steps](https://media.discordapp.net/attachments/1262719342500384861/1263953249317158925/chrome_kLpriNSOYs.gif?ex=66ad3f31&is=66abedb1&hm=d4e5e9256017e255bb2bea5e543af4f2c715f010f6c012e66d1c3d0b09cdadaf&=&width=1004&height=480)
+![First steps](https://media.discordapp.net/attachments/1262719342500384861/1263953249317158925/chrome_kLpriNSOYs.gif?ex=66afe231&is=66ae90b1&hm=df1555e23b34bcb5d0b4cedcba3f70fa1e92c120d1c46231e185b83eb96cfe1a&=&width=718&height=344)
 
 `Add something:`   
 To add something, you need to click a button and fill out the modal window  
