@@ -27,7 +27,7 @@ To delete something, you need to click a button
 To send embed, you need to click button and choose method for send.  
 
 If you choose “Send this channel”, embed will be sent in this channel.  
-![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66ad3f31&is=66abedb1&hm=95b791d943c14bc19b2715b30bcca5549064d1bdad3e7e36d6863ae501b79845&=&width=1004&height=480)
+![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66afe231&is=66ae90b1&hm=0ab4d41fd49d13ed5ed13587fd32c5150a70d9f46201939c725169a530ca1c9c&=&width=718&height=344)
 
 If you choose “Use webhook” you will need to past webhook URL.  
 ![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66afe231&is=66ae90b1&hm=fd4a5cd15e52f3578d239e2f1d7e61c50720f29ecd356030093874a075af835a&=&width=1004&height=480)
