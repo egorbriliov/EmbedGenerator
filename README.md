@@ -13,28 +13,28 @@ This bot has been in development since 2024 and has only two command:
 
 `First steps:`  
 To get started, you need to use /embedTo get started, you need to use /embed  
-![First steps](https://cloud.mail.ru/public/BF72/Kh1AeqvuE)
+![First steps](app/sources/first_steps.gif)
 
 `Add something:`   
 To add something, you need to click a button and fill out the modal window  
-![Add something](https://media.discordapp.net/attachments/1262719342500384861/1263953248507658240/chrome_c3lv00QRtE.gif?ex=66afe231&is=66ae90b1&hm=4ff1a57ee2138669c48f105eea84a91d68177faf44e04206243e9c7dc5f4ce81&=&width=718&height=344)
+![Add something](app/sources/add_something.gif)
 
 `Delete something:`  
 To delete something, you need to click a button  
-![Delete something](https://media.discordapp.net/attachments/1262719342500384861/1263953248927092869/chrome_dD06gFqCWc.gif?ex=66afe231&is=66ae90b1&hm=fa28ec8d4aab4bfa8430b1101d88d620301a81d4e7cd821aabca1ff4d80c32d2&=&width=718&height=344)
+![Delete something](app/sources/delete_something.gif)
 
 `Send embed:`  
 To send embed, you need to click button and choose method for send.  
 
 If you choose “Send this channel”, embed will be sent in this channel.  
-![Send this channel](https://media.discordapp.net/attachments/1262719342500384861/1263953248038158436/chrome_6f1YRGIFE2.gif?ex=66afe231&is=66ae90b1&hm=0ab4d41fd49d13ed5ed13587fd32c5150a70d9f46201939c725169a530ca1c9c&=&width=718&height=344)
+![Send this channel](app/sources/send_embed_in_this_chat.gif)
 
 If you choose “Use webhook” you will need to past webhook URL.  
-![Use webhook](https://media.discordapp.net/attachments/1262719342500384861/1263953249766215680/chrome_VydugmPsMQ.gif?ex=66afe231&is=66ae90b1&hm=fd4a5cd15e52f3578d239e2f1d7e61c50720f29ecd356030093874a075af835a&=&width=718&height=344)
+![Use webhook](app/sources/send_embed_use_webhook.gif)
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
-![Input errors](https://media.discordapp.net/attachments/1262719342500384861/1263953250407940096/chrome_Y6D5l3lD51.gif?ex=66afe232&is=66ae90b2&hm=38af9ffd82f120212c9d2229e1e080198e773e76fceae73dfb46833e3c05c002&=&width=718&height=344)
+![Input errors](app/sources/input_errors.gif)
 
 
 ## Installation
