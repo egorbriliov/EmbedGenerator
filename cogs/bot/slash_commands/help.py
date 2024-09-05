@@ -56,7 +56,6 @@ class ButtonGenerator(disnake.ui.Button):
         self.bot = bot
         self.button_type = button_type
         self.current_page = current_page
-        print(f"{button_type=}, {current_page=}")
         if button_type == "previous_page":
             if current_page == 0:
                 super().__init__(
@@ -135,7 +134,6 @@ class Help(commands.Cog):
     async def help(self,
                    inter: disnake.ApplicationCommandInteraction
                    ):
-        print(embeds_dict[0]["embed"])
         await inter.response.send_message(view=MyView(bot=self.bot, current_page=0),
                                           embed=disnake.Embed.from_dict(
                                               embeds_dict[0]["embed"]),
