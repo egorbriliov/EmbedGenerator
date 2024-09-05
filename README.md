@@ -13,28 +13,28 @@ This bot has been in development since 2024 and has only two command:
 
 `First steps:`  
 To get started, you need to use /embedTo get started, you need to use /embed  
-![First steps](app/sources/first_steps.gif)
+![First steps](sources/first_steps.gif)
 
 `Add something:`   
 To add something, you need to click a button and fill out the modal window  
-![Add something](app/sources/add_something.gif)
+![Add something](sources/add_something.gif)
 
 `Delete something:`  
 To delete something, you need to click a button  
-![Delete something](app/sources/delete_something.gif)
+![Delete something](sources/delete_something.gif)
 
 `Send embed:`  
 To send embed, you need to click button and choose method for send.  
 
 If you choose “Send this channel”, embed will be sent in this channel.  
-![Send this channel](app/sources/send_embed_in_this_chat.gif)
+![Send this channel](sources/send_embed_in_this_chat.gif)
 
 If you choose “Use webhook” you will need to past webhook URL.  
-![Use webhook](app/sources/send_embed_use_webhook.gif)
+![Use webhook](sources/send_embed_use_webhook.gif)
 
 `Input errors:`  
 You don’t have to worry about data entry errors, because if they are not true, _**EmbedGenerator**_ will warn you!  
-![Input errors](app/sources/input_errors.gif)
+![Input errors](sources/input_errors.gif)
 
 
 ## Installation
