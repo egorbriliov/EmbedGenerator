@@ -11,7 +11,7 @@ This bot has been in development since 2024 and has only two command:
 
 ### Usage examples
 
-`First steps:`  
+`First steps:`   
 To get started, you need to use /embedTo get started, you need to use /embed  
 ![First steps](sources/first_steps.gif)
 
